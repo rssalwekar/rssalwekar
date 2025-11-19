@@ -1,6 +1,7 @@
 # Hi, I'm Rohan Salwekar 👋
 
 **Levine Scholar • CS + DS Student**
+
 UNC Charlotte | Aspiring Quant, ML, and SWE Developer
 
 ---

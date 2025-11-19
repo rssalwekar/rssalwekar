@@ -8,9 +8,9 @@
 
 I am a computer science and data science double-major at UNC Charlotte with interests in machine learning, algorithms, and systems development. I enjoy working on projects that are mathematically grounded and efficient in practice.
 
-I am currently conducting research in the UNC Charlotte Machine Learning Lab, focusing on sparse neural networks, model efficiency, and optimization. This includes developing differentiable pruning methods in PyTorch and NumPy and studying the computational tradeoffs involved.
+I am currently conducting research in the UNC Charlotte Machine Learning Lab, focusing on sparse neural networks, model efficiency, and optimization. This work includes developing differentiable pruning methods in PyTorch and NumPy and studying the computational tradeoffs involved.
 
-Earlier, I worked on Bitcoin Lightning Network simulation where I built a Go-based payment routing simulator, incorporated probabilistic extensions of Dijkstra’s algorithm, and ran large-scale Monte Carlo evaluations using live network data.
+Earlier, I worked on Bitcoin Lightning Network simulation where I built a Go-based payment routing simulator, added probabilistic extensions to Dijkstra’s algorithm, and ran large-scale Monte Carlo evaluations using live network data.
 
 Outside of research, I have experience building full-stack applications, AI-powered tools, and data-driven systems through internships and personal projects. My technical background includes Python, Go, PyTorch, NumPy, probabilistic modeling, algorithmic design, and systems-level development.
 
@@ -22,32 +22,32 @@ Here are a few projects I have worked on:
 
 - **ln-pathfinding-module**: A Go-based simulator for Lightning Network routing. Models payment routing under liquidity uncertainty, integrates probabilistic pathfinding, and benchmarks multiple routing strategies.
 
-- **LeetCode**: My personal repository for algorithm and data structure practice. It contains a growing collection of problems and solutions.
+- **LeetCode**: My personal repository for algorithm and data structure practice with a growing collection of problems and solutions.
 
-- **cci-startup-hackathon**: A full-stack web application built during a hackathon. Focuses on rapid prototyping and deployment.
+- **cci-startup-hackathon**: A full-stack web application built during a hackathon focused on rapid prototyping and deployment.
 
-- **ballon-dor-llm-dashboard**: A dashboard built for an LLM-based assignment with an interactive interface and backend logic for running and analyzing model outputs.
+- **ballon-dor-llm-dashboard**: A dashboard for an LLM-based assignment with an interactive interface and backend logic for running and analyzing model outputs.
 
 ---
 
 ## Research and Technical Interests
 
-- **Machine Learning and Optimization**: Sparse neural networks, pruning, and convergence analysis
-- **Quantitative Systems**: Monte Carlo simulation, stochastic routing, and algorithmic pathfinding
-- **Software and Algorithm Engineering**: Python, Go, Lightning Network, large-scale simulation, system design, and API development
+- **Machine Learning and Optimization**: Sparse neural networks, pruning, and convergence analysis  
+- **Quantitative Systems**: Monte Carlo simulation, stochastic routing, and algorithmic pathfinding  
+- **Software and Algorithm Engineering**: Python, Go, Lightning Network, large-scale simulation, system design, and API development  
 
 ---
 
 ## Get in Touch
 
-- **LinkedIn**: [Rohan Salwekar](https://www.linkedin.com/in/rohan-salwekar-971b781b1/)
+- **LinkedIn**: [Rohan Salwekar](https://www.linkedin.com/in/rohan-salwekar-971b781b1/)  
 - **Email**: [rssalwekar@gmail.com](mailto:rssalwekar@gmail.com)
 
 ---
 
 ## A Few More Notes
 
-- I update this GitHub with research, personal projects, and experiments whenever I can.
+- I update this GitHub with research, personal projects, and experiments whenever I can.  
 - I am always open to collaborating on work related to machine learning, quantitative development, and open-source software.
 
 ---

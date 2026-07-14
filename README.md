@@ -13,7 +13,7 @@ Real-time attendance and participation tracking using YOLO, BoT-SORT, FaceNet, O
 
 `Python` `PyTorch` `OpenCV` `YOLO` `Computer Vision`
 
-### [Lightning Network Pathfinding](https://github.com/rssalwekar/lightning-network-pathfinding)
+### [Lightning Network Pathfinding](https://github.com/rssalwekar/sim-ln-custom-weight)
 
 Go-based Bitcoin payment-routing simulator that models liquidity uncertainty using stochastic success probabilities and modified Dijkstra routing. Monte Carlo experiments achieved a 69.5% success rate and 30% lower median fees.
 

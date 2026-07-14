@@ -1,70 +1,42 @@
-# Hi, I'm Rohan Salwekar 👋
+# Rohan Salwekar
 
-**Levine Scholar | CS + DS Student @ UNC Charlotte | Aspiring Quant, ML, and SWE Developer**
+Computer Science and Data Science student at UNC Charlotte and Levine Scholar focused on software engineering, machine learning, and quantitative systems.
 
----
+- Quantitative Analyst Intern at Bank of America
+- Undergraduate researcher studying neural-network sparsity and Bitcoin Lightning Network routing
 
-## About Me
+## Selected Work
 
-I am a computer science and data science double-major at UNC Charlotte with interests in machine learning, algorithms, and systems development. I enjoy working on projects that are mathematically grounded and efficient in practice.
+### [Vision-Based Attendance System](https://github.com/rssalwekar/vision-based-attendance-system)
 
-I am currently conducting research in the UNC Charlotte Machine Learning Lab, focusing on sparse neural networks, model efficiency, and optimization. This work includes developing differentiable pruning methods in PyTorch and NumPy and studying the computational tradeoffs involved.
+Real-time attendance and participation tracking using YOLO, BoT-SORT, FaceNet, OSNet, and pose estimation. Achieved 95–97% identity-recognition accuracy using weighted embeddings and temporal stabilization.
 
-Earlier, I worked on Bitcoin Lightning Network simulation where I built a Go-based payment routing simulator, added probabilistic extensions to Dijkstra’s algorithm, and ran large-scale Monte Carlo evaluations using live network data.
+`Python` `PyTorch` `OpenCV` `YOLO` `Computer Vision`
 
-Outside of research, I have experience building full-stack applications, AI-powered tools, and data-driven systems through internships and personal projects. My technical background includes Python, Go, PyTorch, NumPy, probabilistic modeling, algorithmic design, and systems-level development.
+### [Lightning Network Pathfinding](https://github.com/rssalwekar/lightning-network-pathfinding)
 
----
+Go-based Bitcoin payment-routing simulator that models liquidity uncertainty using stochastic success probabilities and modified Dijkstra routing. Monte Carlo experiments achieved a 69.5% success rate and 30% lower median fees.
 
-## Featured Projects
+`Go` `Rust` `Python` `Graph Algorithms` `Monte Carlo Simulation`
 
-Here are a few projects I have worked on:
+### [InterVue](https://github.com/rssalwekar/intervue)
 
-- **ln-pathfinding-module**: A Go-based simulator for Lightning Network routing. Models payment routing under liquidity uncertainty, integrates probabilistic pathfinding, and benchmarks multiple routing strategies.
+AI technical interview platform featuring live code execution, low-latency WebSocket communication, adaptive voice interviews, and performance analytics.
 
-- **LeetCode**: My personal repository for algorithm and data structure practice with a growing collection of problems and solutions.
+`Python` `Django` `Redis` `WebSockets` `LLMs`
 
-- **cci-startup-hackathon**: A full-stack web application built during a hackathon focused on rapid prototyping and deployment.
+### Neural-Network Sparsity Research
 
-- **ballon-dor-llm-dashboard**: A dashboard for an LLM-based assignment with an interactive interface and backend logic for running and analyzing model outputs.
+Developing PyTorch and NumPy pipelines to study neural-network pruning and accuracy retention. Achieved 90% convolutional sparsity with 83% test accuracy on VGG-19 and CIFAR-10 using QRSR pruning.
 
----
+`PyTorch` `NumPy` `Deep Learning` `Model Pruning`
 
-## Research and Technical Interests
+## Technologies
 
-- **Machine Learning and Optimization**: Sparse neural networks, pruning, and convergence analysis  
-- **Quantitative Systems**: Monte Carlo simulation, stochastic routing, and algorithmic pathfinding  
-- **Software and Algorithm Engineering**: Python, Go, Lightning Network, large-scale simulation, system design, and API development  
+**Languages:** Python, C/C++, Java, Go, Rust, JavaScript, SQL  
+**Machine Learning:** PyTorch, scikit-learn, NumPy, Pandas, OpenCV  
+**Frameworks and Systems:** Django, Flask, Redis, Docker, Supabase, GitHub Actions
 
----
+## Connect
 
-## Get in Touch
-
-- **LinkedIn**: [Rohan Salwekar](https://www.linkedin.com/in/rohan-salwekar-971b781b1/)  
-- **Email**: [rssalwekar@gmail.com](mailto:rssalwekar@gmail.com)
-
----
-
-## A Few More Notes
-
-- I update this GitHub with research, personal projects, and experiments whenever I can.  
-- I am always open to collaborating on work related to machine learning, quantitative development, and open-source software.
-
----
-
-Thanks for stopping by. I hope we can build something cool together!
-
-<!--
-**rssalwekar/rssalwekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/rohan-salwekar/) · [Email](mailto:rssalwekar@gmail.com)
